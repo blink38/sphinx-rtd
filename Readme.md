@@ -1,0 +1,1 @@
+This image just add the Read The Doc theme to the [official sphinxdoc/sphinx image](https://hub.docker.com/r/sphinxdoc/sphinx/).
